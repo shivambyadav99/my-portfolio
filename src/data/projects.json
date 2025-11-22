@@ -3,7 +3,7 @@
     "name": "Portfolio",
     "description":  "My personal portfolio showcasing my skills and projects.",
     "details": "This portfolio features a modern UI with sections for About Me, Skills, Projects, and Contact. It highlights my work, provides links to live demos and GitHub repositories, and presents my developer profile in a professional way.",
-    "live": "https://projectA.com",
+    "live": "https://my-portfolio-sigma-two-64.vercel.app/#hero",
     "code": "https://github.com/shivambyadav99/my-portfolio",
     "tech": ["React.js", "TailwindCSS", "JavaScript"]
   }
