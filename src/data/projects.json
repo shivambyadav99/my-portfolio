@@ -1,18 +1,10 @@
 [
   {
-    "name": "Project A",
-    "description": "A web app built with React and TailwindCSS",
-    "details": "This project demonstrates a full-featured web application with responsive design, dynamic routing, and state management.",
+    "name": "Portfolio",
+    "description":  "My personal portfolio showcasing my skills and projects.",
+    "details": "This portfolio features a modern UI with sections for About Me, Skills, Projects, and Contact. It highlights my work, provides links to live demos and GitHub repositories, and presents my developer profile in a professional way.",
     "live": "https://projectA.com",
-    "code": "https://github.com/username/projectA",
+    "code": "https://github.com/shivambyadav99/my-portfolio",
     "tech": ["React.js", "TailwindCSS", "JavaScript"]
-  },
-  {
-    "name": "Project B",
-    "description": "An e-commerce platform with Redux and .NET Core",
-    "details": "A professional e-commerce app with cart functionality, backend integration, and responsive UI.",
-    "live": "https://projectB.com",
-    "code": "https://github.com/username/projectB",
-    "tech": ["React.js", "Redux", ".NET Core", "SQL"]
   }
 ]

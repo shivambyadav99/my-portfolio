@@ -4,7 +4,7 @@ export default function ContactInfo() {
   const contactItems = [
     { icon: <FaEnvelope />, label: "Email", value: "shivambyadav99@gmail.com", href: "https://mail.google.com/mail/?view=cm&to=shivambyadav99@gmail.com" },
     { icon: <FaPhoneAlt />, label: "Phone", value: "+91 8605284612", href: "tel:+918605284612" },
-    { icon: <FaGithub />, label: "GitHub", value: "shivam2337", href: "https://github.com/shivam2337" },
+    { icon: <FaGithub />, label: "GitHub", value: "shivambyadav99", href: "https://github.com/shivambyadav99" },
     { icon: <FaLinkedin />, label: "LinkedIn", value: "Shivam Yadav", href: "https://www.linkedin.com/in/shivambyadav99" },
   ];
 

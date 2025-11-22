@@ -2,7 +2,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
 
 export default function Footer() {
   const socialItems = [
-    { icon: <FaGithub size={20} />, href: "https://WWW.github.com/shivam2337" },
+    { icon: <FaGithub size={20} />, href: "https://WWW.github.com/shivambyadav99" },
     { 
       icon: <FaEnvelope size={20} />, 
       // Open Gmail compose window

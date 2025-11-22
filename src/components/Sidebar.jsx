@@ -30,7 +30,7 @@ export default function Sidebar() {
   ]);
 
   const socialItems = [
-    { icon: <FaGithub size={20} />, href: 'https://github.com/shivam2337' },
+    { icon: <FaGithub size={20} />, href: 'https://github.com/shivambyadav99' },
     { icon: <FaEnvelope size={20} />, href: 'https://mail.google.com/mail/?view=cm&to=shivambyadav99@gmail.com' },
     { icon: <FaPhoneAlt size={20} />, href: 'tel:+918605284612' },
     { icon: <FaLinkedin size={20} />, href: 'https://linkedin.com/in/shivambyadav99' },
