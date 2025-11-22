@@ -1,0 +1,26 @@
+{
+  "education": [
+    { "degree": "M.Sc in Computer Science", "institution": "Shivaji University", "year": "2020 - 2022" },
+    { "degree": "B.Sc in Computer Science", "institution": "Shivaji University", "year": "2017 - 2020" }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Engineer",
+      "company": "Accure Softech Pvt Ltd",
+      "duration": "Nov 2023 - Present",
+      "details": "1.Worked on frontend development using React.js and Redux, integrated with backend python, java for different projects. 2.Handling multiple projects with simaltaneously with leadership for team."
+    },
+    {
+      "role": "Associate Software Development Engineer",
+      "company": "Emtec Inc",
+      "duration": "Feb 2023 - Oct 2023",
+      "details": "1. Developed React.js applications with redux toolkit,improving UI state Management. 2.Integrated Restful APIs using Axios improving frontend-backend communication. 3.Developed and optimized .Net core web APIs for backend functionality. 4.Designed and wrote optimized SQL server queries and store procedures."
+    },
+    {
+      "role": "Trainee Software Development Engineer",
+      "company": "Emtec Inc",
+      "duration": "Aug 2022 - Feb 2023",
+      "details": "1.Managed version control with Git/GitHub, following Git commands for branching and merging. 2.Assisted in developing React components and integrating Restful APIs. 3.Contributed to bug fixing, debugging, and performance optimization. 4.Worked on .Net core, Web API, SQL server and frontend-backend integration."
+    }
+  ]
+}

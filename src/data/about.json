@@ -1,0 +1,27 @@
+{
+  "about": {
+    "title": "About Me",
+    "intro": "I am a Frontend Developer with 3 years of professional experience building responsive, interactive, and high-performance web applications. I specialize in writing clean, maintainable code and delivering excellent user experiences.",
+    "careerHighlights": [
+      {
+        "title": "Production Experience",
+        "description": "Delivered 2+ production-ready web applications with React.js."
+      },
+      {
+        "title": "Responsive Design",
+        "description": "Expert in building applications that work seamlessly on desktop and mobile devices."
+      },
+      {
+        "title": "Problem Solving",
+        "description": "Skilled in debugging, optimizing code, and implementing efficient solutions."
+      },
+      {
+        "title": "Backend Integration",
+        "description": "Experience connecting frontend apps with .NET Core APIs, Java Spring boot,python django and SQL databases like mysql, mssql server."
+      }
+    ],
+    "skills": ["React.js","Redux","TailwindCSS",".NET Core","SQL","UI/UX","Responsive Design"],
+    "resume": "/ShivamYadav.pdf",
+    "profileImage": "/profile.jpg"
+  }
+}
