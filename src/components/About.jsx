@@ -1,8 +1,8 @@
 import aboutData from "../data/about.json";
-import ShivamYadav from "../assets/ShivamYadav.pdf";
+import ShivamYadav_Resume from "../assets/ShivamYadav_Resume.pdf";
 import profile from "../assets/profile.png";
 export default function About() {
-  const { title, intro, careerHighlights, skills, resume, profileImage } = aboutData.about;
+  const { title, intro, careerHighlights, skills } = aboutData.about;
 
   return (
     <section id="about" className="min-h-screen snap-start py-7 px-7 bg-gray-50">
@@ -30,7 +30,7 @@ export default function About() {
           </div>
 
           <div>
-            <a href={ShivamYadav} download className="px-6 py-3 bg-blue-500 hover:bg-blue-600 rounded-lg font-semibold transition">
+            <a href={ShivamYadav_Resume} download className="px-6 py-3 bg-blue-500 hover:bg-blue-600 rounded-lg font-semibold transition">
               Download Resume
             </a>
           </div>

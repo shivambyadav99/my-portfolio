@@ -21,7 +21,7 @@
       }
     ],
     "skills": ["React.js","Redux","TailwindCSS",".NET Core","SQL","UI/UX","Responsive Design"],
-    "resume": "/ShivamYadav.pdf",
-    "profileImage": "/profile.jpg"
+    "resume": "/src/assets/ShivamYadav_Resume.pdf",
+    "profileImage": "/src/assets/profile.png"
   }
 }

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import ShivamYadav from "../assets/ShivamYadav.pdf";
+import ShivamYadav_Resume from "../assets/ShivamYadav_Resume.pdf";
 
 export default function Hero() {
   const phrases = [
@@ -48,7 +48,7 @@ export default function Hero() {
       {/* Action Buttons */}
       <div className="flex flex-col sm:flex-row gap-4 sm:gap-6">
         <a
-          href={ShivamYadav}
+          href={ShivamYadav_Resume}
           download
           className="px-6 py-3 bg-blue-500 hover:bg-blue-600 rounded-lg font-semibold text-center transition transform hover:scale-105"
         >
